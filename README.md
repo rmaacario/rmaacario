@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi there! 👋💻
 
-<!--
-**rmaacario/rmaacario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Rafael Macário, a computational linguist based in São Paulo who is passionate about fusing linguistics and technology.
 
-Here are some ideas to get you started:
+Here are a few things about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 What I'm currently working on
+
+* Solving linguistic problems through classification systems
+* Developing a disambiguation system of spatial prepositions for machine translation
+
+🌱 What I'm currently learning
+
+* Data science, SQL, and R
+* Neural NLP and machine translation
+📫 How to reach me
+
+Email: rafael.macario@usp.br
+* LinkedIn: https://www.linkedin.com/in/rafaelmacariofernandes/ 
+
+💬 Fun fact
+
+* I love learning new languages and playing music as a hobby. 🎶
