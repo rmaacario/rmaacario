@@ -4,21 +4,21 @@ I'm Rafael, a computational linguist based in São Paulo who is passionate about
 
 Here are a few things about me:
 
-- 🔭 What I'm currently working on
+🔭 What I'm currently working on
 
 * Solving linguistic problems through classification and regression
 * Developing a disambiguation system of spatial prepositions for machine translation
 
-- 🌱 What I'm currently learning
+🌱 What I'm currently learning
 
 * Data science, SQL, and R
 * Neural NLP and machine translation
 
-- 📫 How to reach me
+📫 How to reach me
 
 * Email: rafael.macario@usp.br
 * LinkedIn: https://www.linkedin.com/in/rafaelmacariofernandes/ 
 
-- 💬 Fun fact
+💬 Fun fact
 
 * I love learning new languages and playing music as a hobby. 🗣️ 🎶
