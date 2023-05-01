@@ -13,9 +13,10 @@ Here are a few things about me:
 
 * Data science, SQL, and R
 * Neural NLP and machine translation
+
 📫 How to reach me
 
-Email: rafael.macario@usp.br
+* Email: rafael.macario@usp.br
 * LinkedIn: https://www.linkedin.com/in/rafaelmacariofernandes/ 
 
 💬 Fun fact
