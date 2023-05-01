@@ -1,6 +1,6 @@
 ### Hi there! 👋💻
 
-I'm Rafael Macário, a computational linguist based in São Paulo who is passionate about fusing linguistics and technology.
+I'm Rafael, a computational linguist based in São Paulo who is passionate about fusing linguistics and technology.
 
 Here are a few things about me:
 
