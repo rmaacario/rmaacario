@@ -6,7 +6,7 @@ Here are a few things about me:
 
 🔭 What I'm currently working on
 
-* Solving linguistic problems through classification systems
+* Solving linguistic problems through classification and regression
 * Developing a disambiguation system of spatial prepositions for machine translation
 
 🌱 What I'm currently learning
