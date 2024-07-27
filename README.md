@@ -22,13 +22,13 @@ Here are a few things about me:
 📫 How to reach me
 
 * Email: rafael.macario@usp.br
-* LinkedIn: https://www.linkedin.com/in/rafaelmacariofernandes/ 
+* LinkedIn:  ![https://www.linkedin.com/in/rafaelmacariofernandes/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 💬 Fun fact
 
 * I love learning new languages and playing music as a hobby. 🗣️ 🎶
 
 ### Connect with me
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
