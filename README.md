@@ -1,6 +1,6 @@
 ### Hi there! 👋💻
 
-I'm Rafael, a computational linguist based in São Paulo who is passionate about fusing linguistics and technology.
+I'm Rafael, a computational linguist based in São Paulo, passionate about blending linguistics with cutting-edge technology.
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
