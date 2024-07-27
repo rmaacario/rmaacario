@@ -3,6 +3,9 @@
 I'm Rafael, a computational linguist based in São Paulo who is passionate about fusing linguistics and technology.
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 Here are a few things about me:
 
@@ -13,7 +16,7 @@ Here are a few things about me:
 
 🌱 What I'm currently learning
 
-* Data science, SQL, and https://camo.githubusercontent.com/89c0c631bae986c489a975ba0e7042d85633bc0f1dd4030c3fa9163db0f9b57b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f522d3237364443333f7374796c653d666f722d7468652d6261646765266c6f676f3d72266c6f676f436f6c6f723d7768697465
+* Data science, SQL, and ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 * Neural NLP and machine translation
 
 📫 How to reach me
@@ -26,6 +29,6 @@ Here are a few things about me:
 * I love learning new languages and playing music as a hobby. 🗣️ 🎶
 
 ### Connect with me
-<a href=”https://www.linkedin.com/in/rafaelmacariofernandes/"><img align=”left” src=”https://raw.githubusercontent.com/rmaacario/rmaacario/main/5296514_bird_tweet_twitter_twitter logo_icon.png” alt=”deepa Jarout| Twitter” width=”35px”/></a>
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
