@@ -24,4 +24,6 @@ Here are a few things about me:
 * I love learning new languages and playing music as a hobby. 🗣️ 🎶
 
 ### Connect with me
-<a href=”https://twitter.com/deepajarout"><img align=”left” src=”https://raw.githubusercontent.com/deepajarout/deepajarout/main/5296514_bird_tweet_twitter_twitter logo_icon.png” alt=”deepa Jarout| Twitter” width=”35px”/></a>
+<a href=”https://www.linkedin.com/in/rafaelmacariofernandes/"><img align=”left” src=”https://raw.githubusercontent.com/rmaacario/rmaacario/main/5296514_bird_tweet_twitter_twitter logo_icon.png” alt=”deepa Jarout| Twitter” width=”35px”/></a>
+
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
