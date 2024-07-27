@@ -31,6 +31,10 @@ Here are a few things about me:
 * Data science, SQL, and ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 * Neural NLP and machine translation
 
+💬 Fun fact
+
+* I love learning new languages and playing music as a hobby. 🗣️ 🎶
+
 📫 How to reach me
 
 <a href="mailto:rafael.macario@usp.br">
@@ -39,7 +43,3 @@ Here are a few things about me:
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
-
-💬 Fun fact
-
-* I love learning new languages and playing music as a hobby. 🗣️ 🎶
