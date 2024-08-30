@@ -1,6 +1,6 @@
 ### Hi there! 👋💻
 
-I'm Rafael, a computational linguist and Ph.D (c) based in São Paulo, passionate about blending linguistics with cutting-edge technology.
+I'm Rafael, a computational linguist and Ph.D student based in São Paulo, passionate about blending linguistics with cutting-edge technology.
 
 Here are some of my skills:
 
