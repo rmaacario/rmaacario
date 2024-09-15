@@ -28,7 +28,7 @@ Here are some of my skills:
 
 🌱 What I'm currently learning
 
-* [![Learning Skills](https://skillicons.dev/icons?i=r,react,html,sqlite&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,r,react,sqlite&theme=light)](https://skillicons.dev)
 * Neural NLP and machine translation
 
 💬 Fun fact
