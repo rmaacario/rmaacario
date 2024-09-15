@@ -3,7 +3,7 @@ I'm Rafael, a **computational linguist** and **Ph.D. student**, focused on **NLP
 
 ## 🛠️ Key Skills:  
 - **NLP & Machine Translation**: Skilled in **LQA** and **LLMs** for machine translation, text classification, and language modeling.  
-- **Data Science**: Proficient with Python tools like **NumPy**, **Pandas**, **Scikit-learn**, **Keras**, and **TensorFlow** for data-driven NLP tasks.
+- **Data Science**: Proficient with Python tools like **NumPy**, **Pandas**, **Scikit-learn**, **Keras**, and **TensorFlow** for data-driven NLP.
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
