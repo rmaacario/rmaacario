@@ -34,10 +34,6 @@ I'm Rafael, a **computational linguist** and **Ph.D. student**, focused on **NLP
 </a>
 
 
-<a href="https://github-readme-stats.vercel.app/api?username=rmaacario&theme=dark&show_icons=true)">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmaacario&show_icons=true&theme=dark" />
-</a>
-
-<a href="https://github.com/rmaacario/github-readme-stats&show_icons=true&theme=dark">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmaacario&show_icons=true&theme=dark" />
+<a href="https://github.com/rmaacario/github-readme-stats&show_icons=true&theme=dark&hide_progress=true">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmaacario&show_icons=true&theme=dark&hide_progress=true" />
 </a>
