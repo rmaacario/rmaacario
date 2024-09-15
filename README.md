@@ -1,8 +1,11 @@
 ### Hi there! 👋💻
 
-I'm Rafael, a **computational linguist**, **thecnical writer**, and **Ph.D student**, passionate about blending linguistics with technology.
+I'm Rafael, a **computational linguist** and **Ph.D student**, focused on NLP and low-resource language development.
 
-Here are some of my skills:
+## Key Skills:
+
+- **NLP & Machine Translation**: Specialized in customizing models for machine translation, text classification, and language modeling.
+- **Data Science**: Proficient with Python tools like NumPy, Pandas, Scikit-learn, Keras, and TensorFlow for data-driven NLP tasks.
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -18,18 +21,17 @@ Here are some of my skills:
 [![Python](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev) <img src="https://camo.githubusercontent.com/3ac7b08a3ab3fcd8ea407a5b4c6fc3f0a89d5ef5d0d2cef9ca3286b9c2ec2f80/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63662f4e65775f506f7765725f42495f4c6f676f2e7376672f3230343870782d4e65775f506f7765725f42495f4c6f676f2e7376672e706e67" alt="DataScience" width="50" height="50">
 </a>
 
-🔭 What I'm currently working on
+🔭 Current Focus:
 
-* Solving crosslinguistic problems in NLP
-* Developing resources for low-resorce languages
+- **Technical Writing**: Currently enhancing my technical writing skills to document complex systems clearly and efficiently. 
+- **Natural Language Processing**: Continuously refining my expertise in NLP models and applications, particularly in low-resource environments.
 
-🌱 What I'm currently learning
+🌱 Learning Journy:
 
+- Improving **technical writing** skills for documenting complex systems.
+- Expanding expertise in **R** and **data science** for linguistic analysis.
 [![My Skills](https://skillicons.dev/icons?i=r,js,react,css,docker,git&theme=light)](https://skillicons.dev)
 
-💬 Fun fact
-
-* I love learning new languages and playing music as a hobby. 🗣️ 🎶
 
 📫 How to reach me
 
