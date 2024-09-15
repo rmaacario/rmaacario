@@ -34,6 +34,9 @@ I'm Rafael, a **computational linguist** and **Ph.D. student**, focused on **NLP
 </a>
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rmaacario&repo=github-readme-stats)](https://github.com/rmaacario/github-readme-stats)
+
+
 <a href="https://github.com/rmaacario/github-readme-stats&show_icons=true&theme=dark&hide_progress=true">
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmaacario&show_icons=true&theme=dark&hide_progress=true" />
 </a>
