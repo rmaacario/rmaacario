@@ -33,4 +33,6 @@ I'm Rafael, a **computational linguist** and **Ph.D. student**, focused on **NLP
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+## 📫 Github Stats:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmaacario&show_icons=true&theme=dark)](https://github.com/rmaacario/github-readme-stats&show_icons=true&theme=dark) 
