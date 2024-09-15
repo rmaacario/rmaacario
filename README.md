@@ -28,7 +28,7 @@ Here are some of my skills:
 
 🌱 What I'm currently learning
 
-* Data science, ![sql](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white), and ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+* [![My Skills](https://skillicons.dev/icons?i=aws,r,react,sqlite&perline=3)](https://skillicons.dev)
 * Neural NLP and machine translation
 
 💬 Fun fact
