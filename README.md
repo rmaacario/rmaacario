@@ -1,5 +1,5 @@
 # Hi there! 👋🏻💻  
-I'm Rafael, a **computational linguist** and **Ph.D. student**, focused on **NLP** and **low-resource** language development.
+I'm Rafael, a **computational linguist** and **Ph.D. student**, focused on **NLP** for PT-br and **low-resource** language development.
 
 ## 🛠️ Key Skills:  
 - **NLP & Machine Translation**: Skilled in **LQA** and **LLMs** for machine translation, text classification, and language modeling.  
