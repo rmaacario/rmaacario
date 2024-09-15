@@ -1,6 +1,6 @@
 ### Hi there! 👋💻
 
-I'm Rafael, a **computational linguist**, **thecnical writer**, and **Ph.D student**, passionate about blending linguistics with cutting-edge technology.
+I'm Rafael, a **computational linguist**, **thecnical writer**, and **Ph.D student**, passionate about blending linguistics with technology.
 
 Here are some of my skills:
 
@@ -20,8 +20,8 @@ Here are some of my skills:
 
 🔭 What I'm currently working on
 
-* Solving linguistic problems in machine translation
-* Developing resources for Brazilian indigenous languages
+* Solving crosslinguistic problems in NLP
+* Developing resources for low-resorce languages
 
 🌱 What I'm currently learning
 
