@@ -1,4 +1,4 @@
-# Hi there! 👋💻  
+# Hi there! 👋🏻💻  
 I'm Rafael, a **computational linguist** and **Ph.D. student**, focused on **NLP** and **low-resource** language development.
 
 ## 🛠️ Key Skills:  
