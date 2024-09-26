@@ -1,6 +1,12 @@
 # Hi there! 👋🏻💻  
 I'm Rafael, a **computational linguist** and **Ph.D. student**, focused on **NLP** for PT-br and **low-resource** language development.
 
+<p>
+<a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true">
+<img src=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
+</a>
+</p>
+
 ## 🛠️ Key Skills:  
 - **NLP & Machine Translation**: Skilled in **LQA** and **LLMs** for machine translation, text classification, and language modeling.  
 - **Data Science**: Proficient with Python tools like **NumPy**, **Pandas**, **Scikit-learn**, **Keras**, and **TensorFlow** for data-driven NLP.
