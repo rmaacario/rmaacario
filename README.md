@@ -15,5 +15,6 @@
     <img src="https://skillicons.dev/icons?i=py,regex,tensorflow,pytorch,latex,r,js,react,html,css,docker,git" alt="Skill Icons">
   </a>
 </p>
-
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?rmaacario=anuraghazra&hide_progress=true)
 
