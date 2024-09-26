@@ -2,7 +2,7 @@
 I'm Rafael, a **computational linguist** and **Ph.D. student**, focused on **NLP** for PT-br and **low-resource** language development.
 
 <div align=center >
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+Hi,+I'm+Rafae+Macario;Computational+Linguist;Technical+Writer;PhD Student;.....and+a+pull+request+connoisseur."
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hi+there+👋🏻%2C+I'm+Rafael+Macario;Computational+Linguist;Technical+Writer;PhD Student;.....and+a+pull+request+connoisseur."
 />
 
  ### Now Playing — Spotify 🎧
