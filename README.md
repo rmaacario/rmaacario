@@ -11,7 +11,7 @@
 ---
 
 ## 🛠️ Key Skills:  
-<div align=center >
+
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)
@@ -27,7 +27,7 @@
 /div>
 
 ## 🔭 Current Focus:
-<div align=center >
+
 - Improving **technical writing** skills for documenting complex systems.
 - Expanding expertise in **R** and **data science** for linguistic analysis.
 - **Low-resource** language development.
