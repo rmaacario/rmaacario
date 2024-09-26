@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,nltk,scikit-learn,pandas,tensorflow,pytorch,keras,numpy,scipy,plotly,matplotlib,latex,regex,r,js,react,html,css,docker,git" alt="Skill Icons">
+    <img src="https://skillicons.dev/icons?i=py,pandas,tensorflow,pytorch,keras,numpy,scipy,plotly,matplotlib,latex,regex,r,js,react,html,css,docker,git" alt="Skill Icons">
   </a>
 </p>
 
