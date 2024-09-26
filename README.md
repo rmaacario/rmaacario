@@ -1,12 +1,7 @@
-# Hi there! 👋🏻💻  
-I'm Rafael, a **computational linguist** and **Ph.D. student**, focused on **NLP** for PT-br and **low-resource** language development.
 
----
 <div align=center >
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hi+there!+👋🏻💻%2C+I'm+Rafael.;a+Computational+Linguist;Technical+Writer;PhD+Student;...and+data+sciece+enthusiast"
 />
-
-
 
 
   ### Now Playing — Spotify 🎧
@@ -36,6 +31,7 @@ I'm Rafael, a **computational linguist** and **Ph.D. student**, focused on **NLP
 
 - Improving **technical writing** skills for documenting complex systems.
 - Expanding expertise in **R** and **data science** for linguistic analysis.
+- **Low-resource** language development.
 
 [![My Skills](https://skillicons.dev/icons?i=r,js,react,html,css,docker,git&theme=dark)](https://skillicons.dev)
 
