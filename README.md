@@ -1,9 +1,7 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hi+there!+👋💻;I'm+Rafael+Macario,;a+computational+linguist,;technical+writer,;PhD+student,;and+data+science+enthusiast."/>
-</div>
 <div align=center >
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hi+there!+👋💻;I'm+Rafael+Macario,;a+computational+linguist,;technical+writer,;PhD+student,;and+data+sciece+enthusiast."
 />
+  
 ---
 
 ## 🎧 Now Playing on Spotify
