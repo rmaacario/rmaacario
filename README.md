@@ -36,11 +36,4 @@
 
 ## 📫 Reach me:
 
-<a href="https://github.com/rmaacario/github-readme-stats&show_icons=true&theme=dark&hide_progress=true">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmaacario&show_icons=true&theme=dark&hide_progress=true" />
-</a>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rmacario&show_icons=true&locale=en&layout=compact" alt="rmacario" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rmacario&show_icons=true&locale=en" alt="rmacario" /></p>
-
