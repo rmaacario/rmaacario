@@ -1,6 +1,14 @@
 # Hi there! 👋🏻💻  
 I'm Rafael, a **computational linguist** and **Ph.D. student**, focused on **NLP** for PT-br and **low-resource** language development.
 
+<div align=center >
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+Hi,+I'm+Rafae+Macario;Computational+Linguist;Technical+Writer;PhD Student;.....and+a+pull+request+connoisseur."
+/>
+
+ ### Now Playing - Spotify 🎧
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12148060010&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
+
 ### Now Playing — Spotify 🎧
 <p>
 <a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true">
