@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,latex,regex,r,js,react,html,css,docker,gi,tensorflow" alt="Skill Icons">
+    <img src="https://skillicons.dev/icons?i=py,latex,regex,r,js,react,html,css,docker,gi,pandas,tensorflow,pytorch," alt="Skill Icons">
   </a>
 </p>
 
