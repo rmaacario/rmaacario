@@ -1,8 +1,9 @@
 # Hi there! 👋🏻💻  
 I'm Rafael, a **computational linguist** and **Ph.D. student**, focused on **NLP** for PT-br and **low-resource** language development.
 
-<div style="text-align: center;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hi+there+👋🏻%2C+I'm+Rafael+Macario;Computational+Linguist;Technical+Writer;PhD Student;.....and+a+pull+request+connoisseur." />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hi+there+👋🏻%2C+I'm+Rafael+Macario;Computational+Linguist;Technical+Writer;PhD Student;.....and+a+pull+request+connoisseur." alt="Typing SVG" />
+</p>
 
   ### Now Playing — Spotify 🎧
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12148060010&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
