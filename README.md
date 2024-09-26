@@ -8,7 +8,7 @@
 </div>
 
 ---
-### 🛠️ Languages and tools:
+### My skills:
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -16,8 +16,7 @@
   </a>
 </p>
 
----
-- 🌱 I’m currently learning **Technical writing, R and data science**
+---  
 - 📫 How to reach me **rafael.macario@usp.br**
 
 <h3 align="left">Connect with me:</h3>
