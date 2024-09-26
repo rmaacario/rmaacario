@@ -3,7 +3,7 @@ I'm Rafael, a **computational linguist** and **Ph.D. student**, focused on **NLP
 
 ---
 <div align=center >
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hi+there!+👋🏻💻%2C+I'm+Rafael.;a+Computational+Linguist;Technical+Writer;PhD+Student...and+data+sciece+enthusiast"
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hi+there!+👋🏻💻%2C+I'm+Rafael.;a+Computational+Linguist;Technical+Writer;PhD+Student;...and+data+sciece+enthusiast"
 />
 
 
