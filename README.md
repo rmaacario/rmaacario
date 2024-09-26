@@ -15,7 +15,8 @@ I'm Rafael, a **computational linguist** and **Ph.D. student**, focused on **NLP
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-[![Python](https://skillicons.dev/icons?i=py&theme=light)](https://skillicons.dev)  <img src="https://camo.githubusercontent.com/3ac7b08a3ab3fcd8ea407a5b4c6fc3f0a89d5ef5d0d2cef9ca3286b9c2ec2f80/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63662f4e65775f506f7765725f42495f4c6f676f2e7376672f3230343870782d4e65775f506f7765725f42495f4c6f676f2e7376672e706e67" alt="DataScience" width="50" height="50">
+[![python](https://skillicons.dev/icons?i=py,latex&theme=light)](https://skillicons.dev)
+<img src="https://camo.githubusercontent.com/3ac7b08a3ab3fcd8ea407a5b4c6fc3f0a89d5ef5d0d2cef9ca3286b9c2ec2f80/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f632f63662f4e65775f506f7765725f42495f4c6f676f2e7376672f3230343870782d4e65775f506f7765725f42495f4c6f676f2e7376672e706e67" alt="DataScience" width="50" height="50">
 
 ## 🔭 Current Focus:
 
