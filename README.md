@@ -3,12 +3,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hi+there!+👋💻;I'm+Rafael+Macario,;a+computational+linguist,;technical+writer,;PhD+student,;and+data+sciece+enthusiast."
 />
 
-  ### Now Playing — Spotify 🎧
+### Now Playing — Spotify 🎧
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12148060010&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
-
-- 🛠️ Languages and tools:
+---
+## 🛠️ Languages and tools:
 
 <div style="text-align: center;">
   <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
@@ -28,8 +28,8 @@
   </a>
 </p>
 
+---
 - 🌱 I’m currently learning **Technical writing, R and data science**
-
 - 📫 How to reach me **rafael.macario@usp.br**
 
 <h3 align="left">Connect with me:</h3>
