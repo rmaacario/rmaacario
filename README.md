@@ -3,8 +3,10 @@ I'm Rafael, a **computational linguist** and **Ph.D. student**, focused on **NLP
 
 ---
 <div align=center >
-<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+I'm+Kenneth+Mathari.;Senior+Mobile+Developer;.....and+a+pull+request+connoisseur."
+<img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hi+there!+👋🏻💻%2C+I'm+Rafael.;Computational+Linguist;Technical+Writer;PhD+Student.....and+a+data+sciece+enthusiast"
 />
+
+
 
 
   ### Now Playing — Spotify 🎧
