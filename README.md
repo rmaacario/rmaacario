@@ -8,7 +8,7 @@
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12148060010&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
----
+
 
 ## 🛠️ Key Skills:  
 
@@ -30,10 +30,9 @@
 
 ## 🔭 Current Focus:
 
-- Improving **technical writing** skills for documenting complex systems.
-- Expanding expertise in **R** and **data science** for linguistic analysis.
-- Reasearching **low-resource** language development techniques.
-
+- **Technical writing** for documenting complex systems.
+- **R** and **data science** for linguistic analysis.
+- **Low-resource** language development.
 
 ## 📫 Reach me:
 
