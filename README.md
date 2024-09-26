@@ -1,6 +1,7 @@
 # Hi there! 👋🏻💻  
 I'm Rafael, a **computational linguist** and **Ph.D. student**, focused on **NLP** for PT-br and **low-resource** language development.
 
+---
 <div style="text-align: center;">
   <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hi+there+👋🏻%2C+I'm+Rafael+Macario;Computational+Linguist;Technical+Writer;PhD Student;.....and+a+data+science+enthusiast" />
 
