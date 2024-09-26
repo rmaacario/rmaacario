@@ -34,6 +34,10 @@
 - **R** and **data science** for linguistic analysis.
 - **Low-resource** language development.
 
-## 📫 Reach me:
+- 📫 How to reach me **rafael.macario@usp.br**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rmacario&show_icons=true&locale=en" alt="rmacario" /></p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/in/rafaelmacariofernandes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/rafaelmacariofernandes" height="30" width="40" /></a>
+<a href="https://instagram.com/rmaacario" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rmaacario" height="30" width="40" /></a>
+</p>
