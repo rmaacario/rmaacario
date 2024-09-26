@@ -5,21 +5,10 @@ I'm Rafael, a **computational linguist** and **Ph.D. student**, focused on **NLP
 <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=25&color=FFFFFF&center=true&lines=Hey+👋%2C+Hi,+I'm+Rafae+Macario;Computational+Linguist;Technical+Writer;PhD Student;.....and+a+pull+request+connoisseur."
 />
 
- ### Now Playing - Spotify 🎧
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12148060010&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+ ### Now Playing — Spotify 🎧
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12148060010&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 
-### Now Playing — Spotify 🎧
-<p>
-<a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true">
-<img src=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
-</a>
-</p>
-<p>
-<a href=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&redirect=true">
-<img src=”https://spotify-github-profile.vercel.app/api/view.svg?uid=313njpkumfthjwhi3oveaxfkqlby&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false"/>
-</a>
-</p>
 
 ## 🛠️ Key Skills:  
 - **NLP & Machine Translation**: Skilled in **LQA** and **LLMs** for machine translation, text classification, and language modeling.  
