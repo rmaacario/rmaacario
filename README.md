@@ -8,7 +8,7 @@
 </div>
 
 ---
-## 🛠️ Languages and tools:
+### 🛠️ Languages and tools:
 
 <p align="center">
   <a href="https://skillicons.dev">
